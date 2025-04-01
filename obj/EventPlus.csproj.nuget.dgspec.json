@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\webapi.event+.csproj": {}
+    "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\EventPlus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\webapi.event+.csproj": {
+    "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\EventPlus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\webapi.event+.csproj",
-        "projectName": "webapi.event+",
-        "projectPath": "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\webapi.event+.csproj",
+        "projectUniqueName": "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\EventPlus.csproj",
+        "projectName": "EventPlus",
+        "projectPath": "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\EventPlus.csproj",
         "packagesPath": "C:\\Users\\39910759896\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\39910759896\\Desktop\\API-EventPlus\\EventPlus\\obj\\",
         "projectStyle": "PackageReference",

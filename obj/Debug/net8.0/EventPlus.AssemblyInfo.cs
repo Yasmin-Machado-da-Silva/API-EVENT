@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("webapi.event+")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EventPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3812c61fa347adf4553c26928787af7528e6c579")]
-[assembly: System.Reflection.AssemblyProductAttribute("webapi.event+")]
-[assembly: System.Reflection.AssemblyTitleAttribute("webapi.event+")]
+[assembly: System.Reflection.AssemblyProductAttribute("EventPlus")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EventPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
